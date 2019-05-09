@@ -12,7 +12,7 @@ blurb:
     comprometidos con la operación de cada cliente.
     Apasionados por brindar un excelente servicio y sumarnos
     a la operación y necesidades de nuestros clientes, nuestro
-    objetivo es obtener la conanza atendiendo el traslado de
+    objetivo es obtener la confianza atendiendo el traslado de
     personal y colaboradores con un servicio responsable.
 intro:
   heading: Por que Trassa?

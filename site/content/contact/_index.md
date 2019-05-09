@@ -15,6 +15,4 @@ contact_entries:
 nuestros clientes, así como de las normas de seguridad, nuestros resultados hablan y respaldan su
 confianza.”
 
-<h3 class="f4 b lh-title mb2">How can I get…?</h3>
-
 Con gusto nos ponemos en contacto con usted para evaluar su requerimiento o necesidad de transporte!

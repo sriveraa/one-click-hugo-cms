@@ -4,7 +4,7 @@ logo: "/img/logo-trassa_mesa-de-trabajo-1.svg"
 contact_entries:
   - heading: Medios de contacto
     text: 844 139 1475
-          871 137 6729"
+          871 137 6729
     text: srivera@tredicom.com
           osaucedo@tredicom.com
   - heading: Horario de Oficina

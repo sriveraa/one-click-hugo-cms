@@ -15,5 +15,5 @@ products:
     text: 'We offer a small, but carefully curated selection of brewing gear and'
 values:
   - heading: Our values
-  text: 'Coffee is an amazing part of human culture but it has a dark side too'
+    text: 'Coffee is an amazing part of human culture but it has a dark side too'
 ---

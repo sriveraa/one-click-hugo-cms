@@ -8,12 +8,17 @@ blurb:
     requerimientos y / o necesidades de transporte siempre comprometidos con la operación de
     cada cliente.
 intro:
-  heading: What we offer
+  heading: Nuesta oferta de valor
   text: >-
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
+    Apasionados por brindar un excelente servicio y sumarnos a la operación y necesidades de
+    nuestros clientes, nuestro objetivo es obtener la confianza atendiendo el traslado de personal y
+    colaboradores con un servicio responsable.
+    Nos motiva la idea de aportar y asistir nuestros procesos sumando herramientas tecnológicas
+    en nuestra operación, mejorar la relación con nuestros clientes e impactando de manera
+    positiva al servicio de traslado. 
+    Basados en la mejora continua y trabajo en equipo administramos y proveemos servicios de
+    transporte de personal con calidad, la confianza de nuestro cliente se basa en los buenos
+    resultados.
 products:
   - image: img/illustrations-coffee.svg
     text: >-

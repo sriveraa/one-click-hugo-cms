@@ -1,5 +1,7 @@
 ---
 image: /img/logo-trassa_mesa-de-trabajo-1.svg
+
+
 blurb:
   heading: Why Kaldi?
   text: >-

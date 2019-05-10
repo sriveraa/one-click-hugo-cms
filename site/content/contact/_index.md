@@ -5,7 +5,7 @@ contact_entries:
   - heading: Medios de contacto
     text: 844 139 1475
           871 137 6729
-    text: srivera@tredicom.com
+          srivera@tredicom.com
           osaucedo@tredicom.com
   - heading: Horario de Oficina
     text: Lunes – Viernes: 9AM – 7PM

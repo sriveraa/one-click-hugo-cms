@@ -1,26 +1,13 @@
 ---
-title: .
-subtitle: .
-image: /img/logo-trassa_mesa-de-trabajo-1.svg
+title: "Great coffee with a conscience"
+subtitle: Support sustainable farming while enjoying a cup
+image: /img/home-jumbotron.jpg
 blurb:
-  heading: Quienes Somos?
-  text: >-
-    Somos una empresa que brinda servicios de traslado de
-    personal con gran calidad, enfocados a asistir y resolver las
-    necesidades operativas del día a día de nuestros clientes y
-    sus requerimientos y / o necesidades de transporte siempre
-    comprometidos con la operación de cada cliente.
-    Apasionados por brindar un excelente servicio y sumarnos
-    a la operación y necesidades de nuestros clientes, nuestro
-    objetivo es obtener la confianza atendiendo el traslado de
-    personal y colaboradores con un servicio responsable.
+heading: Why Kaldi?
+    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
 intro:
-  heading: Por que Trassa?
-  text: >-
-    Nos motiva la idea de aportar y asistir nuestros procesos
-    sumando herramientas tecnológicas en nuestra operación,
-    mejorar la relación con nuestros clientes e impactando de
-    manera positiva al servicio de traslado
+  heading: "What we offer"
+    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
     products:
   - image: img/illustrations-coffee.svg
     text: >-

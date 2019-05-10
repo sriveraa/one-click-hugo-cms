@@ -14,10 +14,12 @@ intro:
     nuestros clientes, nuestro objetivo es obtener la confianza atendiendo el traslado de personal y
     colaboradores con un servicio responsable.
     
+    text: >-
     Nos motiva la idea de aportar y asistir nuestros procesos sumando herramientas tecnológicas
     en nuestra operación, mejorar la relación con nuestros clientes e impactando de manera
     positiva al servicio de traslado. 
     
+    text: >-
     Basados en la mejora continua y trabajo en equipo administramos y proveemos servicios de
     transporte de personal con calidad, la confianza de nuestro cliente se basa en los buenos
     resultados.

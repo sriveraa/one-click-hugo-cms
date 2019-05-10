@@ -1,14 +1,12 @@
 ---
 image: /img/logo-trassa_mesa-de-trabajo-1.svg
-
-
 blurb:
-  heading: Why Kaldi?
+  heading: Quienes Somos?
   text: >-
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    Somos una empresa que brinda servicios de traslado de personal con gran calidad, enfocados a
+    asistir y resolver las necesidades operativas del día a día de nuestros clientes y sus
+    requerimientos y / o necesidades de transporte siempre comprometidos con la operación de
+    cada cliente.
 intro:
   heading: What we offer
   text: >-
